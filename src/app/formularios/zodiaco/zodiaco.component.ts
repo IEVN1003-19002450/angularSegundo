@@ -61,7 +61,7 @@ export class ZodiacoComponent implements OnInit {
       edad--; 
     }
 
-
+//asasasas
     
   //con esto ya nomas ponemos el valor edad en el html y con eso mero recuerda
     return edad;
